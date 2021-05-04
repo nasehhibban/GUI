@@ -108,7 +108,7 @@ class Ui_Form(object):
         self.pushButton_6.setText(_translate("Form", "CLEAR"))
         self.pushButton_2.setText(_translate("Form", "HAPUS"))
 
-# untuk menampilkan layout widget yang tadi sudah dibuat dan menampilkan UI nya
+# untuk menampilkan layout widget yang tadi sudah dibuat dan menampilkan UInya
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
