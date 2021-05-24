@@ -1,5 +1,5 @@
-# PRAKTIKUM GUI
-# NAMA  : Naseh Hibban
-# KELAS : S1SE03A
-# NIM   : 19104004
+** PRAKTIKUM GUI
+** NAMA  : Naseh Hibban
+** KELAS : S1SE03A
+** NIM   : 19104004
 
