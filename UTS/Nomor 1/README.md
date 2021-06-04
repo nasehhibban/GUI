@@ -7,4 +7,4 @@ Penjelesan dari UTS GUI DATA MAHASISWA :
 3. Display text menggunakan komponen text browser
 4. Text seperti NIM, Nama, Jurusan dan No. Telp menggunakan komponen label dengan ukuran font 11 dan jenis font Cooper Black Reguler
 5. Tempat input data menggunakan komponen line edit
-6. Tombol perintah seperti TAMBAH, EDIT, CLEAR dan HAPUS menggunakan komponen Push Butt
+6. Tombol perintah seperti TAMBAH, EDIT, CLEAR dan HAPUS menggunakan komponen Push Button
