@@ -6,6 +6,7 @@
 ## 1. Aplikasi GUI Data Mahasiswa
 
 **Tambah Data**
+
 ![1](https://user-images.githubusercontent.com/72422096/120768703-a44fae00-c546-11eb-8411-61ab30670ed3.JPG)
 
 **Edit Data**
