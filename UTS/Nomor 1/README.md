@@ -1,6 +1,6 @@
-![TUGAS_GUI](https://user-images.githubusercontent.com/72422096/116970327-eedcd100-ace1-11eb-9134-6bcd74b6640e.png)
+![UTS_GUI](https://user-images.githubusercontent.com/72422096/116970327-eedcd100-ace1-11eb-9134-6bcd74b6640e.png)
 
-Penjelesan dari Tugas GUI DATA MAHASISWA :
+Penjelesan dari UTS GUI DATA MAHASISWA :
 
 1. Layout menggunakan Widget
 2. Text Data Mahasiswa menggunakan komponen label dengan ukuran font 16 dan jenis font Cooper Black Reguler
