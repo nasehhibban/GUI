@@ -8,3 +8,8 @@ Penjelesan dari UTS GUI DATA MAHASISWA :
 4. Text seperti NIM, Nama, Jurusan dan No. Telp menggunakan komponen label dengan ukuran font 11 dan jenis font Cooper Black Reguler
 5. Tempat input data menggunakan komponen line edit
 6. Tombol perintah seperti TAMBAH, EDIT, CLEAR dan HAPUS menggunakan komponen Push Button
+
+## 2. Perbaiki Codingan
+![image](https://user-images.githubusercontent.com/72422096/120764119-1376d380-c542-11eb-8d88-046dffa307ca.png)
+
+Pada Codingan tersebut terdapat kesalahan indentasi pada line 16, perlu dihapus untuk indentasi pada line 16 agar bisa berjalan dengan baik
