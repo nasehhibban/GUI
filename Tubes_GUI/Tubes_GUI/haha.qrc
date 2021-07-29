@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="Helo"/>
-  <qresource>
-    <file>header.jpg</file>
-  </qresource>
-</RCC>
