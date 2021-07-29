@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>../BG/Deafult-Profile-Pitcher.png</file>
+    <file>../BG/2Arc.jpeg</file>
+    <file>../BG/41.jpeg</file>
+    <file>../BG/321.jpeg</file>
+    <file>../BG/WA.jpeg</file>
+    <file>../BG/1.jpg</file>
+    <file>../BG/2.jpg</file>
+    <file>../BG/31234.jpg</file>
+    <file>../BG/123.jpg</file>
+    <file>../BG/132.jpg</file>
+    <file>../BG/Dreadout.jpg</file>
+    <file>../BG/Pamali.jpg</file>
+    <file>../BG/Parakacuk.JPG</file>
+  </qresource>
+  <qresource prefix="BG1">
+    <file>../BG/a.jpeg</file>
+    <file>../BG/b.jpeg</file>
+    <file>../BG/c.jpeg</file>
+    <file>../BG/d.jpeg</file>
+    <file>../BG/e.jpeg</file>
+  </qresource>
+</RCC>
